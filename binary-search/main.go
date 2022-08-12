@@ -2,9 +2,11 @@ package main
 
 import (
 	"fmt"
+	"sort"
 )
 
 func BinarySearch(list []int, item int) int {
+	sort.Ints(list)
 	low := 0
 	high := len(list) - 1
 
