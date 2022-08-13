@@ -1,0 +1,9 @@
+mode: set
+separation-sort/main.go:7.36,11.33 3 1
+separation-sort/main.go:18.2,18.23 1 1
+separation-sort/main.go:11.33,12.25 1 1
+separation-sort/main.go:12.25,15.4 2 1
+separation-sort/main.go:21.39,25.28 3 1
+separation-sort/main.go:31.2,31.15 1 1
+separation-sort/main.go:25.28,29.3 3 1
+separation-sort/main.go:34.13,36.2 1 0
