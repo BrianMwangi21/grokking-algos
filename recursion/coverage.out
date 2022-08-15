@@ -1,0 +1,5 @@
+mode: set
+recursion/main.go:5.32,6.18 1 1
+recursion/main.go:6.18,8.4 1 1
+recursion/main.go:8.8,10.4 1 1
+recursion/main.go:13.13,16.2 2 0

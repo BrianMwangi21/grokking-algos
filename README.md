@@ -10,3 +10,6 @@ Repo to hold the Grokking Algorithms as we go along with the pleasantly illustra
 2. Separation Sort
 - [x] Code 
 - [x] Tests
+3. Recursion
+- [x] Code 
+- [x] Tests
