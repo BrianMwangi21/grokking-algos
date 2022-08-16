@@ -29,5 +29,5 @@ func BinarySearch(list []int, item int) int {
 }
 
 func main() {
-	fmt.Println("Hello, Binary Search")
+	fmt.Println("Hello, Binary Search and I run at O(log n)")
 }

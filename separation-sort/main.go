@@ -32,5 +32,5 @@ func SeparationSort(list []int) []int {
 }
 
 func main() {
-	fmt.Println("Hello, Separation Sort")
+	fmt.Println("Hello, Separation Sort and I run at O(n^2)")
 }

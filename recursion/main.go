@@ -11,5 +11,5 @@ func Factorial(number int) int {
 }
 
 func main() {
-  fmt.Println("Hello, recursion")
+  fmt.Println("Hello, Recursion")
 }
