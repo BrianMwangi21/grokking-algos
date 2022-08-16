@@ -26,5 +26,5 @@ func Quicksort(list []int) []int {
 }
 
 func main() {
-  fmt.Println("Hello, Quicksort")
+	fmt.Println("Hello, Quicksort and I run at O(n log n)")
 }
