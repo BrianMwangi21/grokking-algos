@@ -1,0 +1,12 @@
+mode: set
+breadth-first/main.go:10.58,11.29 1 1
+breadth-first/main.go:16.2,16.14 1 1
+breadth-first/main.go:11.29,12.16 1 1
+breadth-first/main.go:12.16,14.4 1 1
+breadth-first/main.go:19.94,29.29 3 1
+breadth-first/main.go:45.2,45.15 1 1
+breadth-first/main.go:29.29,34.40 4 1
+breadth-first/main.go:34.40,35.34 1 1
+breadth-first/main.go:40.4,41.39 2 1
+breadth-first/main.go:35.34,37.10 2 1
+breadth-first/main.go:48.13,50.2 1 0
