@@ -21,3 +21,9 @@ Repo to hold the Grokking Algorithms as we go along with the pleasantly illustra
 6. Breadth First
 - [x] Code 
 - [x] Tests 
+7. Dijkstra
+- [x] Code 
+- [x] Tests 
+8. Greedy Algorithms
+- [x] Code 
+- [x] Tests 
