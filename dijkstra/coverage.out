@@ -1,0 +1,16 @@
+mode: set
+dijkstra/main.go:8.81,11.32 3 1
+dijkstra/main.go:17.2,17.23 1 1
+dijkstra/main.go:11.32,12.75 1 1
+dijkstra/main.go:12.75,15.4 2 1
+dijkstra/main.go:20.89,29.43 6 1
+dijkstra/main.go:34.2,36.27 2 1
+dijkstra/main.go:54.2,54.26 1 1
+dijkstra/main.go:29.43,32.3 2 1
+dijkstra/main.go:36.27,37.49 1 1
+dijkstra/main.go:50.3,51.56 2 1
+dijkstra/main.go:37.49,38.39 1 1
+dijkstra/main.go:42.4,44.29 2 1
+dijkstra/main.go:38.39,40.5 1 1
+dijkstra/main.go:44.29,47.5 2 1
+dijkstra/main.go:57.13,59.2 1 0
