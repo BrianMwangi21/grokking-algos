@@ -27,3 +27,6 @@ Repo to hold the Grokking Algorithms as we go along with the pleasantly illustra
 8. Greedy Algorithms
 - [x] Code 
 - [x] Tests 
+9. Dynamic Programming
+- [x] Code 
+- [x] Tests 
